@@ -10,7 +10,7 @@ I am from Uzbekistan.<br>I am a senior student at Inha University.<br>I am a iOS
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=asadbekkhoshimov&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asadbekkhoshimov&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekkhoshimov&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekkhoshimov&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
